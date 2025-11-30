@@ -35,7 +35,6 @@ SneakFreak/
 ├── sneakfreaklogo.jpg
 └── (Bootstrap CDN linked directly in pages)
 
-
 | Page           | Description                        |
 | -------------- | ---------------------------------- |
 | Home           | Landing page introducing the brand |
