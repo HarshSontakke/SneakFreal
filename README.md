@@ -22,6 +22,17 @@ Custom branding with SneakFreak logo
 | **Bootstrap** | Responsive design and UI utilities     |
 
 
+
+
+
+
+
+
+
+
+
+
+
 SneakFreak/
 │
 ├── Home.html
@@ -34,6 +45,15 @@ SneakFreak/
 │
 ├── sneakfreaklogo.jpg
 └── (Bootstrap CDN linked directly in pages)
+
+
+
+
+
+
+
+
+
 
 | Page           | Description                        |
 | -------------- | ---------------------------------- |
